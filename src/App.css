@@ -1,4 +1,9 @@
-.App {
+html,body,#root,.ant-layout{
+  width: 100%;
+  height: 100%;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +40,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
